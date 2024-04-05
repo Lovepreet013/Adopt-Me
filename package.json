@@ -1,7 +1,7 @@
 {
   "name": "citr-v8-project",
   "version": "8.0.0",
-  "description": "Complete Intro to React v8 project",
+  "description": "Adopt-Me",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,7 @@
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
   },
   "keywords": [],
-  "author": "Brian Holt",
+  "author": "Lovepreet Singh",
   "license": "ISC",
   "devDependencies": {
     "@vitejs/plugin-react": "2.1.0",
